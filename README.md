@@ -1,2 +1,2 @@
 # FBCrackPy
-Um script para quebrar a senha de contas de facebook
+Brute Force, um script para quebrar senhas de contas de facebook
